@@ -1,0 +1,4 @@
+D:\Users\PC\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\213.6777.58\bin\cmake\win\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" "D:\my doc\programm\DiscreteMath\1.1"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: D:/my doc/programm/DiscreteMath/1.1/cmake-build-debug
