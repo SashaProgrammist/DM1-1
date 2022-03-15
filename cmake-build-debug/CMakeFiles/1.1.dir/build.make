@@ -43,19 +43,19 @@ cmake_force:
 SHELL = cmd.exe
 
 # The CMake executable.
-CMAKE_COMMAND = D:\Users\PC\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\213.6777.58\bin\cmake\win\bin\cmake.exe
+CMAKE_COMMAND = "F:\Program Files\JetBrains\apps\CLion\ch-0\213.6461.75\bin\cmake\win\bin\cmake.exe"
 
 # The command to remove a file.
-RM = D:\Users\PC\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\213.6777.58\bin\cmake\win\bin\cmake.exe -E rm -f
+RM = "F:\Program Files\JetBrains\apps\CLion\ch-0\213.6461.75\bin\cmake\win\bin\cmake.exe" -E rm -f
 
 # Escaping for special characters.
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "D:\my doc\programm\DiscreteMath\1.1"
+CMAKE_SOURCE_DIR = F:\program\DM\1.1
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "D:\my doc\programm\DiscreteMath\1.1\cmake-build-debug"
+CMAKE_BINARY_DIR = F:\program\DM\1.1\cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/1.1.dir/depend.make
@@ -71,100 +71,100 @@ include CMakeFiles/1.1.dir/flags.make
 CMakeFiles/1.1.dir/main.c.obj: CMakeFiles/1.1.dir/flags.make
 CMakeFiles/1.1.dir/main.c.obj: ../main.c
 CMakeFiles/1.1.dir/main.c.obj: CMakeFiles/1.1.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="D:\my doc\programm\DiscreteMath\1.1\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/1.1.dir/main.c.obj"
-	D:\Users\PC\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\213.6777.58\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/1.1.dir/main.c.obj -MF CMakeFiles\1.1.dir\main.c.obj.d -o CMakeFiles\1.1.dir\main.c.obj -c "D:\my doc\programm\DiscreteMath\1.1\main.c"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=F:\program\DM\1.1\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/1.1.dir/main.c.obj"
+	"F:\Program Files\JetBrains\apps\CLion\ch-0\213.6461.75\bin\mingw\bin\gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/1.1.dir/main.c.obj -MF CMakeFiles\1.1.dir\main.c.obj.d -o CMakeFiles\1.1.dir\main.c.obj -c F:\program\DM\1.1\main.c
 
 CMakeFiles/1.1.dir/main.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/1.1.dir/main.c.i"
-	D:\Users\PC\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\213.6777.58\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "D:\my doc\programm\DiscreteMath\1.1\main.c" > CMakeFiles\1.1.dir\main.c.i
+	"F:\Program Files\JetBrains\apps\CLion\ch-0\213.6461.75\bin\mingw\bin\gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E F:\program\DM\1.1\main.c > CMakeFiles\1.1.dir\main.c.i
 
 CMakeFiles/1.1.dir/main.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/1.1.dir/main.c.s"
-	D:\Users\PC\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\213.6777.58\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "D:\my doc\programm\DiscreteMath\1.1\main.c" -o CMakeFiles\1.1.dir\main.c.s
+	"F:\Program Files\JetBrains\apps\CLion\ch-0\213.6461.75\bin\mingw\bin\gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S F:\program\DM\1.1\main.c -o CMakeFiles\1.1.dir\main.c.s
 
 CMakeFiles/1.1.dir/bitset/bitset.c.obj: CMakeFiles/1.1.dir/flags.make
 CMakeFiles/1.1.dir/bitset/bitset.c.obj: ../bitset/bitset.c
 CMakeFiles/1.1.dir/bitset/bitset.c.obj: CMakeFiles/1.1.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="D:\my doc\programm\DiscreteMath\1.1\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/1.1.dir/bitset/bitset.c.obj"
-	D:\Users\PC\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\213.6777.58\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/1.1.dir/bitset/bitset.c.obj -MF CMakeFiles\1.1.dir\bitset\bitset.c.obj.d -o CMakeFiles\1.1.dir\bitset\bitset.c.obj -c "D:\my doc\programm\DiscreteMath\1.1\bitset\bitset.c"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=F:\program\DM\1.1\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/1.1.dir/bitset/bitset.c.obj"
+	"F:\Program Files\JetBrains\apps\CLion\ch-0\213.6461.75\bin\mingw\bin\gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/1.1.dir/bitset/bitset.c.obj -MF CMakeFiles\1.1.dir\bitset\bitset.c.obj.d -o CMakeFiles\1.1.dir\bitset\bitset.c.obj -c F:\program\DM\1.1\bitset\bitset.c
 
 CMakeFiles/1.1.dir/bitset/bitset.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/1.1.dir/bitset/bitset.c.i"
-	D:\Users\PC\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\213.6777.58\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "D:\my doc\programm\DiscreteMath\1.1\bitset\bitset.c" > CMakeFiles\1.1.dir\bitset\bitset.c.i
+	"F:\Program Files\JetBrains\apps\CLion\ch-0\213.6461.75\bin\mingw\bin\gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E F:\program\DM\1.1\bitset\bitset.c > CMakeFiles\1.1.dir\bitset\bitset.c.i
 
 CMakeFiles/1.1.dir/bitset/bitset.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/1.1.dir/bitset/bitset.c.s"
-	D:\Users\PC\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\213.6777.58\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "D:\my doc\programm\DiscreteMath\1.1\bitset\bitset.c" -o CMakeFiles\1.1.dir\bitset\bitset.c.s
+	"F:\Program Files\JetBrains\apps\CLion\ch-0\213.6461.75\bin\mingw\bin\gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S F:\program\DM\1.1\bitset\bitset.c -o CMakeFiles\1.1.dir\bitset\bitset.c.s
 
 CMakeFiles/1.1.dir/ordered_array_set/ordered_array_set.c.obj: CMakeFiles/1.1.dir/flags.make
 CMakeFiles/1.1.dir/ordered_array_set/ordered_array_set.c.obj: ../ordered_array_set/ordered_array_set.c
 CMakeFiles/1.1.dir/ordered_array_set/ordered_array_set.c.obj: CMakeFiles/1.1.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="D:\my doc\programm\DiscreteMath\1.1\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/1.1.dir/ordered_array_set/ordered_array_set.c.obj"
-	D:\Users\PC\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\213.6777.58\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/1.1.dir/ordered_array_set/ordered_array_set.c.obj -MF CMakeFiles\1.1.dir\ordered_array_set\ordered_array_set.c.obj.d -o CMakeFiles\1.1.dir\ordered_array_set\ordered_array_set.c.obj -c "D:\my doc\programm\DiscreteMath\1.1\ordered_array_set\ordered_array_set.c"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=F:\program\DM\1.1\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/1.1.dir/ordered_array_set/ordered_array_set.c.obj"
+	"F:\Program Files\JetBrains\apps\CLion\ch-0\213.6461.75\bin\mingw\bin\gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/1.1.dir/ordered_array_set/ordered_array_set.c.obj -MF CMakeFiles\1.1.dir\ordered_array_set\ordered_array_set.c.obj.d -o CMakeFiles\1.1.dir\ordered_array_set\ordered_array_set.c.obj -c F:\program\DM\1.1\ordered_array_set\ordered_array_set.c
 
 CMakeFiles/1.1.dir/ordered_array_set/ordered_array_set.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/1.1.dir/ordered_array_set/ordered_array_set.c.i"
-	D:\Users\PC\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\213.6777.58\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "D:\my doc\programm\DiscreteMath\1.1\ordered_array_set\ordered_array_set.c" > CMakeFiles\1.1.dir\ordered_array_set\ordered_array_set.c.i
+	"F:\Program Files\JetBrains\apps\CLion\ch-0\213.6461.75\bin\mingw\bin\gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E F:\program\DM\1.1\ordered_array_set\ordered_array_set.c > CMakeFiles\1.1.dir\ordered_array_set\ordered_array_set.c.i
 
 CMakeFiles/1.1.dir/ordered_array_set/ordered_array_set.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/1.1.dir/ordered_array_set/ordered_array_set.c.s"
-	D:\Users\PC\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\213.6777.58\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "D:\my doc\programm\DiscreteMath\1.1\ordered_array_set\ordered_array_set.c" -o CMakeFiles\1.1.dir\ordered_array_set\ordered_array_set.c.s
+	"F:\Program Files\JetBrains\apps\CLion\ch-0\213.6461.75\bin\mingw\bin\gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S F:\program\DM\1.1\ordered_array_set\ordered_array_set.c -o CMakeFiles\1.1.dir\ordered_array_set\ordered_array_set.c.s
 
 CMakeFiles/1.1.dir/unordered_array_set/unordered_array_set.c.obj: CMakeFiles/1.1.dir/flags.make
 CMakeFiles/1.1.dir/unordered_array_set/unordered_array_set.c.obj: ../unordered_array_set/unordered_array_set.c
 CMakeFiles/1.1.dir/unordered_array_set/unordered_array_set.c.obj: CMakeFiles/1.1.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="D:\my doc\programm\DiscreteMath\1.1\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_4) "Building C object CMakeFiles/1.1.dir/unordered_array_set/unordered_array_set.c.obj"
-	D:\Users\PC\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\213.6777.58\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/1.1.dir/unordered_array_set/unordered_array_set.c.obj -MF CMakeFiles\1.1.dir\unordered_array_set\unordered_array_set.c.obj.d -o CMakeFiles\1.1.dir\unordered_array_set\unordered_array_set.c.obj -c "D:\my doc\programm\DiscreteMath\1.1\unordered_array_set\unordered_array_set.c"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=F:\program\DM\1.1\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building C object CMakeFiles/1.1.dir/unordered_array_set/unordered_array_set.c.obj"
+	"F:\Program Files\JetBrains\apps\CLion\ch-0\213.6461.75\bin\mingw\bin\gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/1.1.dir/unordered_array_set/unordered_array_set.c.obj -MF CMakeFiles\1.1.dir\unordered_array_set\unordered_array_set.c.obj.d -o CMakeFiles\1.1.dir\unordered_array_set\unordered_array_set.c.obj -c F:\program\DM\1.1\unordered_array_set\unordered_array_set.c
 
 CMakeFiles/1.1.dir/unordered_array_set/unordered_array_set.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/1.1.dir/unordered_array_set/unordered_array_set.c.i"
-	D:\Users\PC\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\213.6777.58\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "D:\my doc\programm\DiscreteMath\1.1\unordered_array_set\unordered_array_set.c" > CMakeFiles\1.1.dir\unordered_array_set\unordered_array_set.c.i
+	"F:\Program Files\JetBrains\apps\CLion\ch-0\213.6461.75\bin\mingw\bin\gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E F:\program\DM\1.1\unordered_array_set\unordered_array_set.c > CMakeFiles\1.1.dir\unordered_array_set\unordered_array_set.c.i
 
 CMakeFiles/1.1.dir/unordered_array_set/unordered_array_set.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/1.1.dir/unordered_array_set/unordered_array_set.c.s"
-	D:\Users\PC\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\213.6777.58\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "D:\my doc\programm\DiscreteMath\1.1\unordered_array_set\unordered_array_set.c" -o CMakeFiles\1.1.dir\unordered_array_set\unordered_array_set.c.s
+	"F:\Program Files\JetBrains\apps\CLion\ch-0\213.6461.75\bin\mingw\bin\gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S F:\program\DM\1.1\unordered_array_set\unordered_array_set.c -o CMakeFiles\1.1.dir\unordered_array_set\unordered_array_set.c.s
 
 CMakeFiles/1.1.dir/oneDimArray/oneDimArray.c.obj: CMakeFiles/1.1.dir/flags.make
 CMakeFiles/1.1.dir/oneDimArray/oneDimArray.c.obj: ../oneDimArray/oneDimArray.c
 CMakeFiles/1.1.dir/oneDimArray/oneDimArray.c.obj: CMakeFiles/1.1.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="D:\my doc\programm\DiscreteMath\1.1\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_5) "Building C object CMakeFiles/1.1.dir/oneDimArray/oneDimArray.c.obj"
-	D:\Users\PC\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\213.6777.58\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/1.1.dir/oneDimArray/oneDimArray.c.obj -MF CMakeFiles\1.1.dir\oneDimArray\oneDimArray.c.obj.d -o CMakeFiles\1.1.dir\oneDimArray\oneDimArray.c.obj -c "D:\my doc\programm\DiscreteMath\1.1\oneDimArray\oneDimArray.c"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=F:\program\DM\1.1\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building C object CMakeFiles/1.1.dir/oneDimArray/oneDimArray.c.obj"
+	"F:\Program Files\JetBrains\apps\CLion\ch-0\213.6461.75\bin\mingw\bin\gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/1.1.dir/oneDimArray/oneDimArray.c.obj -MF CMakeFiles\1.1.dir\oneDimArray\oneDimArray.c.obj.d -o CMakeFiles\1.1.dir\oneDimArray\oneDimArray.c.obj -c F:\program\DM\1.1\oneDimArray\oneDimArray.c
 
 CMakeFiles/1.1.dir/oneDimArray/oneDimArray.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/1.1.dir/oneDimArray/oneDimArray.c.i"
-	D:\Users\PC\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\213.6777.58\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "D:\my doc\programm\DiscreteMath\1.1\oneDimArray\oneDimArray.c" > CMakeFiles\1.1.dir\oneDimArray\oneDimArray.c.i
+	"F:\Program Files\JetBrains\apps\CLion\ch-0\213.6461.75\bin\mingw\bin\gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E F:\program\DM\1.1\oneDimArray\oneDimArray.c > CMakeFiles\1.1.dir\oneDimArray\oneDimArray.c.i
 
 CMakeFiles/1.1.dir/oneDimArray/oneDimArray.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/1.1.dir/oneDimArray/oneDimArray.c.s"
-	D:\Users\PC\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\213.6777.58\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "D:\my doc\programm\DiscreteMath\1.1\oneDimArray\oneDimArray.c" -o CMakeFiles\1.1.dir\oneDimArray\oneDimArray.c.s
+	"F:\Program Files\JetBrains\apps\CLion\ch-0\213.6461.75\bin\mingw\bin\gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S F:\program\DM\1.1\oneDimArray\oneDimArray.c -o CMakeFiles\1.1.dir\oneDimArray\oneDimArray.c.s
 
 CMakeFiles/1.1.dir/testSet.c.obj: CMakeFiles/1.1.dir/flags.make
 CMakeFiles/1.1.dir/testSet.c.obj: ../testSet.c
 CMakeFiles/1.1.dir/testSet.c.obj: CMakeFiles/1.1.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="D:\my doc\programm\DiscreteMath\1.1\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_6) "Building C object CMakeFiles/1.1.dir/testSet.c.obj"
-	D:\Users\PC\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\213.6777.58\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/1.1.dir/testSet.c.obj -MF CMakeFiles\1.1.dir\testSet.c.obj.d -o CMakeFiles\1.1.dir\testSet.c.obj -c "D:\my doc\programm\DiscreteMath\1.1\testSet.c"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=F:\program\DM\1.1\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building C object CMakeFiles/1.1.dir/testSet.c.obj"
+	"F:\Program Files\JetBrains\apps\CLion\ch-0\213.6461.75\bin\mingw\bin\gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/1.1.dir/testSet.c.obj -MF CMakeFiles\1.1.dir\testSet.c.obj.d -o CMakeFiles\1.1.dir\testSet.c.obj -c F:\program\DM\1.1\testSet.c
 
 CMakeFiles/1.1.dir/testSet.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/1.1.dir/testSet.c.i"
-	D:\Users\PC\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\213.6777.58\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "D:\my doc\programm\DiscreteMath\1.1\testSet.c" > CMakeFiles\1.1.dir\testSet.c.i
+	"F:\Program Files\JetBrains\apps\CLion\ch-0\213.6461.75\bin\mingw\bin\gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E F:\program\DM\1.1\testSet.c > CMakeFiles\1.1.dir\testSet.c.i
 
 CMakeFiles/1.1.dir/testSet.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/1.1.dir/testSet.c.s"
-	D:\Users\PC\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\213.6777.58\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "D:\my doc\programm\DiscreteMath\1.1\testSet.c" -o CMakeFiles\1.1.dir\testSet.c.s
+	"F:\Program Files\JetBrains\apps\CLion\ch-0\213.6461.75\bin\mingw\bin\gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S F:\program\DM\1.1\testSet.c -o CMakeFiles\1.1.dir\testSet.c.s
 
 CMakeFiles/1.1.dir/bool_array_set/bool_array_set.c.obj: CMakeFiles/1.1.dir/flags.make
 CMakeFiles/1.1.dir/bool_array_set/bool_array_set.c.obj: ../bool_array_set/bool_array_set.c
 CMakeFiles/1.1.dir/bool_array_set/bool_array_set.c.obj: CMakeFiles/1.1.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="D:\my doc\programm\DiscreteMath\1.1\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_7) "Building C object CMakeFiles/1.1.dir/bool_array_set/bool_array_set.c.obj"
-	D:\Users\PC\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\213.6777.58\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/1.1.dir/bool_array_set/bool_array_set.c.obj -MF CMakeFiles\1.1.dir\bool_array_set\bool_array_set.c.obj.d -o CMakeFiles\1.1.dir\bool_array_set\bool_array_set.c.obj -c "D:\my doc\programm\DiscreteMath\1.1\bool_array_set\bool_array_set.c"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=F:\program\DM\1.1\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building C object CMakeFiles/1.1.dir/bool_array_set/bool_array_set.c.obj"
+	"F:\Program Files\JetBrains\apps\CLion\ch-0\213.6461.75\bin\mingw\bin\gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/1.1.dir/bool_array_set/bool_array_set.c.obj -MF CMakeFiles\1.1.dir\bool_array_set\bool_array_set.c.obj.d -o CMakeFiles\1.1.dir\bool_array_set\bool_array_set.c.obj -c F:\program\DM\1.1\bool_array_set\bool_array_set.c
 
 CMakeFiles/1.1.dir/bool_array_set/bool_array_set.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/1.1.dir/bool_array_set/bool_array_set.c.i"
-	D:\Users\PC\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\213.6777.58\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "D:\my doc\programm\DiscreteMath\1.1\bool_array_set\bool_array_set.c" > CMakeFiles\1.1.dir\bool_array_set\bool_array_set.c.i
+	"F:\Program Files\JetBrains\apps\CLion\ch-0\213.6461.75\bin\mingw\bin\gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E F:\program\DM\1.1\bool_array_set\bool_array_set.c > CMakeFiles\1.1.dir\bool_array_set\bool_array_set.c.i
 
 CMakeFiles/1.1.dir/bool_array_set/bool_array_set.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/1.1.dir/bool_array_set/bool_array_set.c.s"
-	D:\Users\PC\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\213.6777.58\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "D:\my doc\programm\DiscreteMath\1.1\bool_array_set\bool_array_set.c" -o CMakeFiles\1.1.dir\bool_array_set\bool_array_set.c.s
+	"F:\Program Files\JetBrains\apps\CLion\ch-0\213.6461.75\bin\mingw\bin\gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S F:\program\DM\1.1\bool_array_set\bool_array_set.c -o CMakeFiles\1.1.dir\bool_array_set\bool_array_set.c.s
 
 # Object files for target 1.1
 1_1_OBJECTS = \
@@ -190,7 +190,7 @@ CMakeFiles/1.1.dir/bool_array_set/bool_array_set.c.s: cmake_force
 1.1.exe: CMakeFiles/1.1.dir/linklibs.rsp
 1.1.exe: CMakeFiles/1.1.dir/objects1.rsp
 1.1.exe: CMakeFiles/1.1.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="D:\my doc\programm\DiscreteMath\1.1\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_8) "Linking C executable 1.1.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=F:\program\DM\1.1\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Linking C executable 1.1.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\1.1.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -202,6 +202,6 @@ CMakeFiles/1.1.dir/clean:
 .PHONY : CMakeFiles/1.1.dir/clean
 
 CMakeFiles/1.1.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" "D:\my doc\programm\DiscreteMath\1.1" "D:\my doc\programm\DiscreteMath\1.1" "D:\my doc\programm\DiscreteMath\1.1\cmake-build-debug" "D:\my doc\programm\DiscreteMath\1.1\cmake-build-debug" "D:\my doc\programm\DiscreteMath\1.1\cmake-build-debug\CMakeFiles\1.1.dir\DependInfo.cmake" --color=$(COLOR)
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" F:\program\DM\1.1 F:\program\DM\1.1 F:\program\DM\1.1\cmake-build-debug F:\program\DM\1.1\cmake-build-debug F:\program\DM\1.1\cmake-build-debug\CMakeFiles\1.1.dir\DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/1.1.dir/depend
 

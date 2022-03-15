@@ -1,4 +1,4 @@
-# Install script for directory: D:/my doc/programm/DiscreteMath/1.1
+# Install script for directory: F:/program/DM/1.1
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -34,7 +34,7 @@ endif()
 
 # Set default install directory permissions.
 if(NOT DEFINED CMAKE_OBJDUMP)
-  set(CMAKE_OBJDUMP "D:/Users/PC/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.6777.58/bin/mingw/bin/objdump.exe")
+  set(CMAKE_OBJDUMP "F:/Program Files/JetBrains/apps/CLion/ch-0/213.6461.75/bin/mingw/bin/objdump.exe")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "D:/my doc/programm/DiscreteMath/1.1/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "F:/program/DM/1.1/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

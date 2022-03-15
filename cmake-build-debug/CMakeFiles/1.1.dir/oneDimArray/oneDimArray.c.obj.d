@@ -1,27 +1,27 @@
 CMakeFiles/1.1.dir/oneDimArray/oneDimArray.c.obj: \
- D:\my\ doc\programm\DiscreteMath\1.1\oneDimArray\oneDimArray.c \
- D:\my\ doc\programm\DiscreteMath\1.1\oneDimArray\oneDimArray.h \
- D:/Users/PC/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.6777.58/bin/mingw/x86_64-w64-mingw32/include/stdlib.h \
- D:/Users/PC/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.6777.58/bin/mingw/x86_64-w64-mingw32/include/corecrt.h \
- D:/Users/PC/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.6777.58/bin/mingw/x86_64-w64-mingw32/include/_mingw.h \
- D:/Users/PC/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.6777.58/bin/mingw/x86_64-w64-mingw32/include/_mingw_mac.h \
- D:/Users/PC/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.6777.58/bin/mingw/x86_64-w64-mingw32/include/_mingw_secapi.h \
- D:/Users/PC/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.6777.58/bin/mingw/x86_64-w64-mingw32/include/vadefs.h \
- D:/Users/PC/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.6777.58/bin/mingw/x86_64-w64-mingw32/include/sdks/_mingw_ddk.h \
- D:/Users/PC/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.6777.58/bin/mingw/x86_64-w64-mingw32/include/corecrt_wstdlib.h \
- D:/Users/PC/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.6777.58/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed/limits.h \
- D:/Users/PC/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.6777.58/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed/syslimits.h \
- D:/Users/PC/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.6777.58/bin/mingw/x86_64-w64-mingw32/include/limits.h \
- D:/Users/PC/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.6777.58/bin/mingw/x86_64-w64-mingw32/include/crtdefs.h \
- D:/Users/PC/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.6777.58/bin/mingw/x86_64-w64-mingw32/include/sec_api/stdlib_s.h \
- D:/Users/PC/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.6777.58/bin/mingw/x86_64-w64-mingw32/include/malloc.h \
- D:/Users/PC/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.6777.58/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/mm_malloc.h \
- D:/Users/PC/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.6777.58/bin/mingw/x86_64-w64-mingw32/include/errno.h \
- D:/Users/PC/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.6777.58/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/stdbool.h \
- D:/Users/PC/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.6777.58/bin/mingw/x86_64-w64-mingw32/include/memory.h \
- D:/Users/PC/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.6777.58/bin/mingw/x86_64-w64-mingw32/include/stdio.h \
- D:/Users/PC/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.6777.58/bin/mingw/x86_64-w64-mingw32/include/corecrt_stdio_config.h \
- D:/Users/PC/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.6777.58/bin/mingw/x86_64-w64-mingw32/include/_mingw_off_t.h \
- D:/Users/PC/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.6777.58/bin/mingw/x86_64-w64-mingw32/include/swprintf.inl \
- D:/Users/PC/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.6777.58/bin/mingw/x86_64-w64-mingw32/include/sec_api/stdio_s.h \
- D:/Users/PC/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.6777.58/bin/mingw/x86_64-w64-mingw32/include/assert.h
+ F:\program\DM\1.1\oneDimArray\oneDimArray.c \
+ F:\program\DM\1.1\oneDimArray\oneDimArray.h \
+ F:/Program\ Files/JetBrains/apps/CLion/ch-0/213.6461.75/bin/mingw/x86_64-w64-mingw32/include/stdlib.h \
+ F:/Program\ Files/JetBrains/apps/CLion/ch-0/213.6461.75/bin/mingw/x86_64-w64-mingw32/include/corecrt.h \
+ F:/Program\ Files/JetBrains/apps/CLion/ch-0/213.6461.75/bin/mingw/x86_64-w64-mingw32/include/_mingw.h \
+ F:/Program\ Files/JetBrains/apps/CLion/ch-0/213.6461.75/bin/mingw/x86_64-w64-mingw32/include/_mingw_mac.h \
+ F:/Program\ Files/JetBrains/apps/CLion/ch-0/213.6461.75/bin/mingw/x86_64-w64-mingw32/include/_mingw_secapi.h \
+ F:/Program\ Files/JetBrains/apps/CLion/ch-0/213.6461.75/bin/mingw/x86_64-w64-mingw32/include/vadefs.h \
+ F:/Program\ Files/JetBrains/apps/CLion/ch-0/213.6461.75/bin/mingw/x86_64-w64-mingw32/include/sdks/_mingw_ddk.h \
+ F:/Program\ Files/JetBrains/apps/CLion/ch-0/213.6461.75/bin/mingw/x86_64-w64-mingw32/include/corecrt_wstdlib.h \
+ F:/Program\ Files/JetBrains/apps/CLion/ch-0/213.6461.75/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed/limits.h \
+ F:/Program\ Files/JetBrains/apps/CLion/ch-0/213.6461.75/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed/syslimits.h \
+ F:/Program\ Files/JetBrains/apps/CLion/ch-0/213.6461.75/bin/mingw/x86_64-w64-mingw32/include/limits.h \
+ F:/Program\ Files/JetBrains/apps/CLion/ch-0/213.6461.75/bin/mingw/x86_64-w64-mingw32/include/crtdefs.h \
+ F:/Program\ Files/JetBrains/apps/CLion/ch-0/213.6461.75/bin/mingw/x86_64-w64-mingw32/include/sec_api/stdlib_s.h \
+ F:/Program\ Files/JetBrains/apps/CLion/ch-0/213.6461.75/bin/mingw/x86_64-w64-mingw32/include/malloc.h \
+ F:/Program\ Files/JetBrains/apps/CLion/ch-0/213.6461.75/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/mm_malloc.h \
+ F:/Program\ Files/JetBrains/apps/CLion/ch-0/213.6461.75/bin/mingw/x86_64-w64-mingw32/include/errno.h \
+ F:/Program\ Files/JetBrains/apps/CLion/ch-0/213.6461.75/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/stdbool.h \
+ F:/Program\ Files/JetBrains/apps/CLion/ch-0/213.6461.75/bin/mingw/x86_64-w64-mingw32/include/memory.h \
+ F:/Program\ Files/JetBrains/apps/CLion/ch-0/213.6461.75/bin/mingw/x86_64-w64-mingw32/include/stdio.h \
+ F:/Program\ Files/JetBrains/apps/CLion/ch-0/213.6461.75/bin/mingw/x86_64-w64-mingw32/include/corecrt_stdio_config.h \
+ F:/Program\ Files/JetBrains/apps/CLion/ch-0/213.6461.75/bin/mingw/x86_64-w64-mingw32/include/_mingw_off_t.h \
+ F:/Program\ Files/JetBrains/apps/CLion/ch-0/213.6461.75/bin/mingw/x86_64-w64-mingw32/include/swprintf.inl \
+ F:/Program\ Files/JetBrains/apps/CLion/ch-0/213.6461.75/bin/mingw/x86_64-w64-mingw32/include/sec_api/stdio_s.h \
+ F:/Program\ Files/JetBrains/apps/CLion/ch-0/213.6461.75/bin/mingw/x86_64-w64-mingw32/include/assert.h
